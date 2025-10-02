@@ -15,7 +15,7 @@
   - Training loop, optimizer, and learning-rate scheduling
   - Generation and sampling strategies
   - Basic fine-tuning and instruction-following (small-scale)
-- Add extensions specific to my use case (replace the placeholders below with your actual use case):
+- Add extensions specific to my use case:
   - Use case example A: fine-tune for domain-specific classification (e.g., biomedical Q&A)
   - Use case example B: build a small LLM for on-device inference with quantization
   - Use case example C: experiment with instruction finetuning and RLHF surfacing pipelines
